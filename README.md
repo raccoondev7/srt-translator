@@ -64,6 +64,4 @@ pyinstaller --onefile srt-translator.py
 The executable will be in `dist/`.
 Put your `.srt` files next to it and run.
 
-```
-::contentReference[oaicite:0]{index=0}
-```
+
