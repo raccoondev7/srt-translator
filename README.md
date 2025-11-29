@@ -50,7 +50,7 @@ Then:
 
 1. Choose the `.srt` file
 2. Choose backend (LibreTranslate / googletrans / DeepL)
-3. Enter target language code (e.g. `en`, `de`, `pl`)
+3. Enter target language code (e.g. `en`, `de`, `fr`)
 
 The translated file will appear in the same folder, e.g. `movie-en.srt`.
 
