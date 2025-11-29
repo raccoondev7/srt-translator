@@ -1,4 +1,4 @@
-````markdown
+
 # SRT-Translator
 Simple Python script that translates `.srt` subtitle files while keeping all timestamps.
 
